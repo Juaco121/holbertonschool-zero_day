@@ -1,0 +1,1 @@
+This file containe, how to open a file with Emacs
